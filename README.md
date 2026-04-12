@@ -35,6 +35,7 @@ Most of my projects focus on:
 
 ## Links
 
-- Website: https://kontra.tel  
+- Website: https://kontra.tel
+- Kontra Repository: https://git.kontra.tel
 - Kontra.tel GitHub: https://github.com/kontra-tel  
 - LinkedIn: https://www.linkedin.com/in/markuav/
