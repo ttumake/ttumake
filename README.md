@@ -11,21 +11,6 @@ Databases
 CI/CD automation  
 Full-stack web development
 
-### Languages
-- Java
-- TypeScript
-- JavaScript
-- Python
-
-### Tools & Technologies
-- Git
-- GitHub
-- Linux
-- Jenkins
-- VS Code
-
-## Projects
-
 Most of my projects focus on:
 
 - Full-stack web applications  
