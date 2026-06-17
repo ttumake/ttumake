@@ -3,21 +3,6 @@ Fourth-year ICT Engineering student at Metropolia University of Applied Sciences
 
 I enjoy building reliable backend systems, APIs, automation pipelines, and full-stack applications.
 
-## What I Work With
-
-Backend development  
-API design  
-Databases  
-CI/CD automation  
-Full-stack web development
-
-Most of my projects focus on:
-
-- Full-stack web applications  
-- Distributed systems  
-- Backend services and APIs  
-- Automation and tooling  
-
 ## Links
 
 - Website: https://kontra.tel
